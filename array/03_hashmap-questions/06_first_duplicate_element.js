@@ -1,14 +1,18 @@
 const num = [2, 1, 3, 5, 3, 2];
-const seen = new Set();
 
-let duplicate = -1;
+const firstDuplicate = (arr) => {
+  const seen = new Set();
+  let duplicate = -1;
 
-for (let i = 0; i < num.length; i++) {
-  if (seen.has(num[i])) {
-    duplicate = num[i];
-    break;
+  for (let i = 0; i < arr.length; i++) {
+    if (seen.has(arr[i])) {
+      duplicate = arr[i];
+      break;
+    }
+    seen.add(arr[i]);
   }
-  seen.add(num[i]);
-}
 
-console.log(duplicate);
+  return duplicate;
+};
+
+console.log(firstDuplicate(num));

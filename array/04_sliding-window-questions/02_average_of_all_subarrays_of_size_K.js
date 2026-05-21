@@ -1,3 +1,4 @@
+// Problem - In this problem, find the average of k size of subarray and return the array of averages
 const arr = [1, 3, 2, 6, -1, 4, 1, 8, 2];
 const k = 5;
 

@@ -1,3 +1,5 @@
+// Problem - Given an array of positive integers arr and a positive integer k, find the maximum sum of any contiguous subarray of size k. A contiguous subarray is a sequence of consecutive elements inside the array.
+
 const arr = [2, 1, 5, 1, 3, 2];
 const k = 3;
 
