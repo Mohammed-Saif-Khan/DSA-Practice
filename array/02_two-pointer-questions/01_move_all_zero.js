@@ -1,3 +1,4 @@
+// Move all Zeros to the End of the Array
 const num = [0, 1, 0, 3, 12];
 let index = 0;
 

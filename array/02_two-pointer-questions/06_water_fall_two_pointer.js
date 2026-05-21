@@ -1,3 +1,4 @@
+// Before Solving this problem first read water_fall.md file to understand the problem statement and the approach to solve it.
 const num = [1, 8, 6, 2, 5, 4, 8, 3, 7];
 
 const waterFall = () => {

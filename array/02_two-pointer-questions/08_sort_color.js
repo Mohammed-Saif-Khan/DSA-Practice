@@ -1,3 +1,4 @@
+// Problem - Move all 0's to left side and 2's to right side of the array. The order of 1's doesn't matter.
 const num = [2, 0, 2, 1, 1, 0];
 
 const sortColors = (num) => {

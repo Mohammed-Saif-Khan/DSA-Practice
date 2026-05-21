@@ -1,3 +1,4 @@
+// Count the Even Number in an Array
 const countEvenNumber = (arr) => {
   let count = 0;
 

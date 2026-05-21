@@ -1,3 +1,4 @@
+// Reverse an Array using Two Pointers
 const num = [1, 2, 3, 4, 5];
 let left = 0;
 let right = num.length - 1;

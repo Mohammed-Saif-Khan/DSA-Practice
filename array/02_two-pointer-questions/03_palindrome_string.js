@@ -1,3 +1,4 @@
+// Read Palindrom.md file to understand the problem statement and approach to solve the problem.
 function isPalindrome(str) {
   let left = 0;
   let right = str.length - 1;
@@ -10,4 +11,5 @@ function isPalindrome(str) {
   return true;
 }
 
-console.log(isPalindrome("Hello"));
+console.log(isPalindrome("Hello")); // false
+console.log(isPalindrome("level")); // true

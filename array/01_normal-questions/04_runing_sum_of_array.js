@@ -1,3 +1,4 @@
+// Find the Running some of an array
 const num = [1, 2, 3, 4];
 const result = [];
 let sum = 0;

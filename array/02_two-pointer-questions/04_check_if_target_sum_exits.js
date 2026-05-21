@@ -1,3 +1,4 @@
+// Check if Target Sum Exists in a Sorted Array
 const arr = [1, 2, 3, 4, 6];
 let target = 6;
 

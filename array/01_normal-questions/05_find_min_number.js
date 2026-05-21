@@ -1,3 +1,4 @@
+// Find the samllest Number in an array
 const findSmallestNumber = (arr) => {
   let min = arr[0];
 

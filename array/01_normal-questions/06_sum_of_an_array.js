@@ -1,3 +1,4 @@
+// Find the Sum of an Array
 const findSumOfArray = (arr) => {
   let sum = 0;
 

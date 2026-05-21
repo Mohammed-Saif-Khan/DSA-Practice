@@ -1,3 +1,4 @@
+// Before Solving this problem, please read the Merge Two Sorted Arrays.md file to understand the problem statement and approach to solve the problem.
 const arr1 = [1, 3, 5];
 const arr2 = [2, 4, 6];
 
