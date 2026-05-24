@@ -1,6 +1,6 @@
 # 🚀 The Ultimate Notes: Monotonic Stack (The Disciplined Line)
 
-Hey Sahil! Agar tum yeh notes **2-3 mahine baad** padh rahe ho, to chill karo. Is document ko bina kisi complex markdown tables ke, ekdum clean aur structured bullet points mein likha gaya hai taaki raw text padhne mein bhi koi dikkat na ho aur 5 minute mein poora concept refresh ho jaye.
+Hey! Agar tum yeh notes **2-3 mahine baad** padh rahe ho, to chill karo. Is document ko bina kisi complex markdown tables ke, ekdum clean aur structured bullet points mein likha gaya hai taaki raw text padhne mein bhi koi dikkat na ho aur 5 minute mein poora concept refresh ho jaye.
 
 ---
 
