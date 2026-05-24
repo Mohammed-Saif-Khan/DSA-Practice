@@ -1,3 +1,4 @@
+// Before Solving this Problem, let's read asteroid_collision Readme file for better understanding of the problem.
 const arr = [5, 10, -5];
 
 const asteroidCollision = (arr) => {

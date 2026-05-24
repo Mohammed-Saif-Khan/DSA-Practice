@@ -2,7 +2,6 @@ const str = "3[a2[c]]";
 
 const decodeString = (str) => {
   let stack = [];
-  let result = "";
 
   for (let i = 0; i < str.length; i++) {
     let char = str[i];
@@ -26,4 +25,4 @@ const decodeString = (str) => {
   return stack.join("");
 };
 
-console.log(decodeString(str));
+console.log(decodeString(str)); //output: "accaccacc";
