@@ -1,3 +1,7 @@
+// Before Staring monotonic stack, let's read monotonic.md file to understand the concept.
+
+// Problem: Given an array, find the next greater element for each element in the array. The next greater element for an element x is the first greater element on the right side of x in the array. If there is no greater element, then the next greater element for x is -1.
+
 const nums = [2, 1, 2, 4, 3];
 
 function findNextGreaterElem(arr) {
