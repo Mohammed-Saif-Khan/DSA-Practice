@@ -21,4 +21,4 @@ const previousSmallestElem = (arr) => {
   return result;
 };
 
-console.log(previousSmallestElem(num));
+console.log(previousSmallestElem(num)); //Output: [-1, 4, -1, 2, 2];
